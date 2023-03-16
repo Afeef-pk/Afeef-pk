@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/pk_afeef" target="blank"><img src="https://img.shields.io/twitter/follow/pk_afeef?logo=twitter&style=for-the-badge" alt="pk_afeef" /></a> </p>
 
-- 🔭 I’m currently working on [E-commerce website](www.newlooks.site)
+- 🔭 I’m currently working on <a href="https://newlooks.site/" target="blank">E-commerce website</a>
 
 - 🌱 I’m currently learning **React Native**
 
