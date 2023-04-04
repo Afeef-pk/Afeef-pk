@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on <a href="https://newlooks.site/" target="blank">E-commerce website</a>
 
-- 🌱 I’m currently learning **React **
+- 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [https://afeef-pk.github.io/personal/](https://afeef-pk.github.io/personal/)
 
