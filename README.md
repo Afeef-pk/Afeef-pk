@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=afeef-pk&label=Profile%20views&color=0e75b6&style=flat" alt="afeef-pk" /> </p>
 
-- 🔭 I’m currently working on [Peko](https://peko.one/ae)
+- 🔭 I’m currently working at [Peko](https://peko.one/ae)
 
 - 🌱 I’m currently learning **Next.js**
 
