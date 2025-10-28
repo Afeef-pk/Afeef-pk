@@ -5,13 +5,11 @@
 
 - 🔭 I’m currently working at [Peko](https://peko.one/ae)
 
-- 🌱 I’m currently learning **Next.js**
-
-- 💬 Ask me about **React.js, Node.js, Express.js, MongoDB**
+- 💬 Ask me about **React.js, Node.js, Express.js, MongoDB, SQL,Next.js**
 
 - 📫 How to reach me **afeefpk80@gmail.com**
 
-- 📄 Know about me [https://afeef-pk.github.io/personal](https://afeef-pk.github.io/personal)
+- 📄 Know about me [https://afeef-pk.personal](https://afeef-pk.vercel.app)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/afeef_pk_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/afeef-pk) [![Twitter](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)]() 
