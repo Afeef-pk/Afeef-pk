@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Afeef PK</h1>
-<h3 align="center">Self taught Full Stack Developer</h3>
+<h3 align="center">Full Stack Developer - MERN </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=afeef-pk&label=Profile%20views&color=0e75b6&style=flat" alt="afeef-pk" /> </p>
 
-- 🔭 I’m currently working at [Peko](https://peko.one/ae)
+- 🔭 I’m currently working at <a href="https://peko.one/ae" target="_blank">Peko</a>
 
-- 💬 Ask me about **React.js, Node.js, Express.js, MongoDB, SQL,Next.js**
+- 💬 Ask me about **React.js, Node.js, Express.js, Nest.js, MongoDB, SQL and Next.js**
 
 - 📫 How to reach me **afeefpk80@gmail.com**
 
-- 📄 Know about me [https://afeef-pk.personal](https://afeef-pk.vercel.app)
+- 📄 Know about me <a href="https://afeef-pk.vercel.app" target="_blank">afeef-pk.vercel.app</a>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/afeef_pk_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/afeef-pk) [![Twitter](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)]() 
