@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=afeef-pk&label=Profile%20views&color=0e75b6&style=flat" alt="afeef-pk" /> </p>
 
-- 🔭 I’m currently working at <a href="https://peko.one/ae" target="_blank">Peko</a>
+- 🔭 I’m currently working at <a href="https://peko.one/ae" target="_blank" rel="noopener noreferrer">Peko</a>
 
 - 💬 Ask me about **React.js, Node.js, Express.js, Nest.js, MongoDB, SQL and Next.js**
 
 - 📫 How to reach me **afeefpk80@gmail.com**
 
-- 📄 Know about me <a href="https://afeef-pk.vercel.app" target="_blank">afeef-pk.vercel.app</a>
+- 📄 Know about me <a href="https://afeef-pk.vercel.app" target="_blank" rel="noopener noreferrer">afeef-pk.app</a>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/afeef_pk_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/afeef-pk) [![Twitter](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)]() 
